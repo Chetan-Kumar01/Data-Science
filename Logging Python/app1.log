@@ -1,0 +1,12 @@
+2025-10-17 16:14:21-AirthmethicApp-DEBUG-Adding 10+3=13
+2025-10-17 16:14:21-AirthmethicApp-DEBUG-Subtracting 3-2=1
+2025-10-17 16:14:21-AirthmethicApp-DEBUG-Multiply 8*9=72
+2025-10-17 16:14:21-AirthmethicApp-DEBUG-Divide 20/10=2.0
+2025-10-17 16:14:34-AirthmethicApp-DEBUG-Adding 10+3=13
+2025-10-17 16:14:34-AirthmethicApp-DEBUG-Subtracting 3-2=1
+2025-10-17 16:14:34-AirthmethicApp-DEBUG-Multiply 8*9=72
+2025-10-17 16:14:34-AirthmethicApp-DEBUG-Divide 0/10=0.0
+2025-10-17 16:15:03-AirthmethicApp-DEBUG-Adding 10+3=13
+2025-10-17 16:15:03-AirthmethicApp-DEBUG-Subtracting 3-2=1
+2025-10-17 16:15:03-AirthmethicApp-DEBUG-Multiply 8*9=72
+2025-10-17 16:15:03-AirthmethicApp-ERROR-Division by zero error

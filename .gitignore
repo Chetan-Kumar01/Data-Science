@@ -1,0 +1,38 @@
+# macOS
+.DS_Store
+
+# Python virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS debug files
+*.dSYM/
+
+# VS Code
+.vscode/
+# macOS
+.DS_Store
+
+# Python virtual environments
+.venv/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# macOS debug files
+*.dSYM/
